@@ -11,3 +11,5 @@ and cuts the horizon to seven months, yet still predicts equity weights far belo
 held by diversified U.S. investors. Thus, loss-averse monitoring helps explain the premium's level but
 not investors' heavy equity positions, pointing to the need for additional frictions such as disaster
 risk or heterogeneity.
+
+To run the project, change the data path to point to your local repository.
