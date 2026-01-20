@@ -1,5 +1,8 @@
 Seminar: Asset Prices and Financial Markets (Grade A+/12). 
 
+Paper:
+The Equity Premium Puzzle - Is it still a puzzle?
+
 Abstract: 
 Using U.S. data from 1989-2024, this study revisits the Mehra–Prescott consumption-based asset pricing
 model. The standard calibration leaves almost the entire nine percentage-point equity premium
@@ -12,4 +15,7 @@ held by diversified U.S. investors. Thus, loss-averse monitoring helps explain t
 not investors' heavy equity positions, pointing to the need for additional frictions such as disaster
 risk or heterogeneity.
 
-To run the project, change the data path to point to your local repository.
+Primary Literature:
+Kahneman and Tversky (1979) Prospect Theory: An Analysis of Decision under Risk
+Mehra Prescott (1985) The Equity Premium: A Puzzle
+Benartzi and Thaler (1995) Myopic Loss Aversion and the Equity Premium
